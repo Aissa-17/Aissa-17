@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aissa-17
-- 👀 I’m interested in wev development.
-- 🌱 I’m currently learning css
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning JS(Objects)
 - 💞️ I’m looking to collaborate on web projects.
 - 📫 How to reach me: aissa.allay@gmail.com
 
